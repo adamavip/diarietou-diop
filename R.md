@@ -1,11 +1,3 @@
-| Description |  A step by step guide to start on R |
-| :------------- | :------------- | :------------- | :------------- |
-| Authors | christine Tranchant-Dubreuil (christine.tranchant@ird.fr)  |
-| Creation Date | 21/09/2018 |
-| Last Modified Date | 22/09/2018 |
-
-
-
 ### Summary
 
 <!-- TOC depthFrom:2 depthTo:2 withLinks:1 updateOnSave:1 orderedList:0 -->
